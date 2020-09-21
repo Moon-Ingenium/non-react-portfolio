@@ -9,11 +9,11 @@ Bootstrap Portfolio
 
 https://github.com/Moon-Ingenium/Moon-Ingenium.github.io.git
 
-![picture](AboutMe1.png)
-![picture](AboutMe2.png)
-![picture](contact1.png)
-![picture](contact2.png)
-![picture](Portfolio1.png)
-![picture](Portfolio2.png)
+![picture](./assests/AboutMe1.png)
+![picture](./assests/AboutMe2.png)
+![picture](./assests/contact1.png)
+![picture](./assests/contact2.png)
+![picture](./assests/Portfolio1.png)
+![picture](./assests/Portfolio2.png)
 
 
